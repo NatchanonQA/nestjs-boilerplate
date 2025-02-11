@@ -36,4 +36,6 @@ How to run api test case
 
 - Test result
 
-  ![alt text](image.png)
+  ![alt text][def]
+
+  [def]: image.png
