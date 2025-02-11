@@ -15,7 +15,9 @@ How to run api test case
   ```
 
 - Test case
-  File test/api
+
+  - File location: test/api
+
   1. User registration
      - Register successfully
      - Register failed with exiting account
